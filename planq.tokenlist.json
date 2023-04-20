@@ -7,7 +7,7 @@
   },
   "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg",
   "keywords": [
-    "celo",
+    "planq",
     "tokens",
     "refi"
   ],
@@ -16,10 +16,34 @@
     {
       "name": "Ethereum",
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 7070,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg"
+    },
+    {
+      "name": "USDC",
+      "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 7070,
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
+    },
+    {
+      "name": "USDT",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 7070,
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
+    },
+    {
+      "name": "Wrapped Planq",
+      "address": "0x5EBCdf1De1781e8B5D41c016B0574aD53E2F6E1A",
+      "symbol": "WPLQ",
+      "decimals": 18,
+      "chainId": 7070,
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
     },
   ]
 }
