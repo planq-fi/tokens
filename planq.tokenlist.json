@@ -44,6 +44,6 @@
       "decimals": 18,
       "chainId": 7070,
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
-    },
+    }
   ]
 }
